@@ -6,7 +6,18 @@ This repo contains the notebooks and notes and certain study materials I am usin
 
 
 
-## ` Projects 🤖 ` 
+## ``` Projects 🤖 ``` 
 This folder holds the projects that I have done using fastai while learning. More to come! 
 
- - [x] [Detect Covid 19 using X-RAYS](https://github.com/ashikshafi08/Learning-Fastai/blob/main/Projects/Detect_Covid19.ipynb)
+ - [x] [Detect Covid 19 using X-RAYS](https://github.com/ashikshafi08/Learning-Fastai/blob/main/Projects/Detect_Covid19.ipynb) 
+ 
+ 
+##  ``` Log 🎯` ```
+Will update the daily log here, things like what changes have been made , new addition would be updated here. So yeah! Keep an eye over here 🧐
+
+- **21 Jan 2021** Added the Project folder, which contains Detect Covid 19 with Chest XRays project. Notebook updated till Summarizing Gradient Descent, next would be applying the concept of gradient descent on *MNIST data* to derive the Loss Function. Even the Notion have been updated! 
+
+
+## ``` To Do 🛠 ``` 
+
+- Clear out the confusion between `params.grad` and `params.grad.data`, raised a thread and after understanding gotta update in the Notion note. 
