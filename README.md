@@ -9,4 +9,4 @@ This repo contains the notebooks and notes and certain study materials I am usin
 ## ` Projects 🤖 ` 
 This folder holds the projects that I have done using fastai while learning. More to come! 
 
-- ✅  [Detect Covid 19 using X-RAYS](https://github.com/ashikshafi08/Learning-Fastai/blob/main/Projects/Detect_Covid19.ipynb)
+ ✅   [Detect Covid 19 using X-RAYS](https://github.com/ashikshafi08/Learning-Fastai/blob/main/Projects/Detect_Covid19.ipynb)
