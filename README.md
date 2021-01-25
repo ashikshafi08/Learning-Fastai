@@ -21,6 +21,6 @@ Will update the daily log here, things like what changes have been made , new ad
 
 ## ``` To Do 🛠 ``` 
 
-[] Clear out the confusion between `params.grad` and `params.grad.data`, raised a thread and after understanding gotta update in the Notion note. 
-[] Gotta finish the Chapter 4 by today, and create a Anki board for this chapter and load em all for future learning. And update the solution to previous confusion.
+- [ ] Clear out the confusion between `params.grad` and `params.grad.data`, raised a thread and after understanding gotta update in the Notion note. 
+- [ ] Gotta finish the Chapter 4 by today, and create a Anki board for this chapter and load em all for future learning. And update the solution to previous confusion.
 
