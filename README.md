@@ -14,6 +14,7 @@ This folder holds the projects that I have done using fastai while learning. Mor
 
  - [x] [Detect Covid 19 using X-RAYS](https://github.com/ashikshafi08/Learning-Fastai/blob/main/Projects/Detect_Covid19.ipynb) 
  - [x] [Kaggle - Dog_Breed_Identification](https://colab.research.google.com/drive/1pOSF0Kdu-Sy84iJVlNoX5Q6V5gh8-lwr)
+ - [x] [Flower_recognition-98% Accuracy](https://github.com/ashikshafi08/Learning-Fastai/blob/main/Projects/Flower_recognition-98%25%20Accuracy.ipynb)
  
  
 ##  ``` Log 🎯` ```
