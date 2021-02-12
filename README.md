@@ -15,6 +15,7 @@ This folder holds the projects that I have done using fastai while learning. Mor
  - [x] [Detect Covid 19 using X-RAYS](https://github.com/ashikshafi08/Learning-Fastai/blob/main/Projects/Detect_Covid19.ipynb) 
  - [x] [Kaggle - Dog_Breed_Identification](https://colab.research.google.com/drive/1pOSF0Kdu-Sy84iJVlNoX5Q6V5gh8-lwr)
  - [x] [Flower_recognition-98% Accuracy](https://github.com/ashikshafi08/Learning-Fastai/blob/main/Projects/Flower_recognition-98%25%20Accuracy.ipynb)
+ - [x] [Plant_Seedlings_Classification](https://github.com/ashikshafi08/Learning-Fastai/blob/main/Projects/Plant_Seedlings_Classification-(97%20Score).ipynb)
  
  
 ##  ``` Log 🎯` ```
@@ -25,6 +26,7 @@ Will update the daily log here, things like what changes have been made , new ad
 - **26 Jan 2021** Completed the whole Chapter 4, will work on the Anki board and the research project at this end of the Chapter lately. Oh yeah! still the confusion will be fixed soon lol
 - **27 Jan 2021** Took up the assignment for working on the full `MNIST` dataset, was really fun and quite challenging on finding the loss function. But not really satisfied with the thing, have to find other's best and minimalistic method of doing this and replicate / learn from them. It was my first shot on solving this after completing the Chapter 4. More to go! Started with the Chapter 5 to lit the curiousity! Will refer regex lately and get done remaining works with the Anki and other left off works. **NOTION** has been  uploaded for Image Classification - chapter 5. 
 - **10 Feb** Woah! Worked ass off for almost 6+ hours finished up the lecture, might take 2 days off to puzzle everything into Anki and solve the questionnaire on the book. Meanwhile work on competetions. Also check those notes. Plus added a Project for now, worked while learning fastai. Will clean and update soon.
+- **12 Feb** Couldn't update the log yesterday was working full blow in Kaggle Competetions. Worked on 3 competetions so far, 2 came out really except one hopefully fix it asap. 
 
 
 
