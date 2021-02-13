@@ -6,6 +6,7 @@ This repo contains the notebooks and notes and certain study materials I am usin
 ##  ``` Notion Link for the notes ✍🏻```
 -  [Under the hood : Training a Digit Classifier](https://www.notion.so/Under-the-hood-Training-a-Digit-Classifier-8c84c3c8b556411b9381b7c1a7cd8d3e)
 - [Image Classification](https://www.notion.so/Image-Classification-eb15b9efd0ec4226941b09ba002335a9)
+- [Other Computer Vision Problems](https://www.notion.so/Other-Computer-Vision-Problems-aeb46003f86a4376bd50e3ed192f644d)
 
 
 
@@ -27,6 +28,7 @@ Will update the daily log here, things like what changes have been made , new ad
 - **27 Jan 2021** Took up the assignment for working on the full `MNIST` dataset, was really fun and quite challenging on finding the loss function. But not really satisfied with the thing, have to find other's best and minimalistic method of doing this and replicate / learn from them. It was my first shot on solving this after completing the Chapter 4. More to go! Started with the Chapter 5 to lit the curiousity! Will refer regex lately and get done remaining works with the Anki and other left off works. **NOTION** has been  uploaded for Image Classification - chapter 5. 
 - **10 Feb** Woah! Worked ass off for almost 6+ hours finished up the lecture, might take 2 days off to puzzle everything into Anki and solve the questionnaire on the book. Meanwhile work on competetions. Also check those notes. Plus added a Project for now, worked while learning fastai. Will clean and update soon.
 - **12 Feb** Couldn't update the log yesterday was working full blow in Kaggle Competetions. Worked on 3 competetions so far, 2 came out really except one hopefully fix it asap. 
+- **14 Feb** Started with a new chapter.
 
 
 
