@@ -3,6 +3,8 @@ This repo contains the notebooks and notes and certain study materials I am usin
 
 **`Back again with Fastai stuffs!!!!! Soon gonna update this repo and keep updated everyday!`**
 
+[### Log](https://github.com/ashikshafi08/Learning-Fastai/blob/main/Log.md)
+
 ##  ``` Notion Link for the notes ✍🏻```
 -  [Under the hood : Training a Digit Classifier](https://www.notion.so/Under-the-hood-Training-a-Digit-Classifier-8c84c3c8b556411b9381b7c1a7cd8d3e)
 - [Image Classification](https://www.notion.so/Image-Classification-eb15b9efd0ec4226941b09ba002335a9)
